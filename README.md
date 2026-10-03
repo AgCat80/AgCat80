@@ -16,7 +16,7 @@ Aspiring data engineer and software developer building systems that move,
 transform, and expose data. Former Head of IT at Legates Group. Currently
 completing a BSc in Computing at STADIO — building in public along the way.
 ```
-
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 ---
 
 ### `01 // About`
@@ -104,3 +104,5 @@ I like building things that actually work. My focus is shifting into **data engi
 <div align="center">
   <sub><code>while (learning) { extract(); transform(); load(); }</code></sub>
 </div>
+
+![Snake Animation](https://github.com/AgCat80/AgCat80/raw/output/github-contribution-grid-snake-dark.svg)
