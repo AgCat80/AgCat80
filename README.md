@@ -100,8 +100,8 @@ I like building things that actually work. My focus is shifting into **data engi
 </div>
 
 ---
-<img src="https://githubusercontent.com<YOUR_USERNAME>/<YOUR_USERNAME>/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 
 <div align="center">
   <sub><code>while (learning) { extract(); transform(); load(); }</code></sub>
 </div>
+![Snake Animation](https://github.com/AgCat80/AgCat80/raw/output/github-contribution-grid-snake-dark.svg)
